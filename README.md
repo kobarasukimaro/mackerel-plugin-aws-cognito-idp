@@ -1,0 +1,1 @@
+# mackerel-plugin-aws-cognito-idp
