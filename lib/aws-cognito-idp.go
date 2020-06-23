@@ -215,7 +215,7 @@ func Do() {
 	optPoolId := flag.String("pool-id", "", "Pool Id")
 	optPoolClientId := flag.String("pool-client-id", "", "Pool Client Id")
 	optTempfile := flag.String("tempfile", "", "Temp file name")
-	optPrefix := flag.String("metric-key-prefix", "kinesis-streams", "Metric key prefix")
+	optPrefix := flag.String("metric-key-prefix", "cognito-idp", "Metric key prefix")
 	flag.Parse()
 
 	var plugin CognitoIdpPlugin
