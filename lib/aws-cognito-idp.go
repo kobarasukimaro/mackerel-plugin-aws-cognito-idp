@@ -20,7 +20,7 @@ const (
 	metricsTypeAverage     = "Average"
 	metricsTypeMaximum     = "Maximum"
 	metricsTypeMinimum     = "Minimum"
-	metricsTypeSampleCount = "Sample Count"
+	metricsTypeSampleCount = "SampleCount"
 
 )
 
